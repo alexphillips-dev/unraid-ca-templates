@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <Plugin>True</Plugin>
+  <PluginURL>https://raw.githubusercontent.com/alexphillips-dev/Parity-Check-Tuning-Plus/main/parity.check.tuning.plus.plg</PluginURL>
+  <PluginAuthor>alexphillips-dev</PluginAuthor>
+  <Beta>False</Beta>
+  <Category>Tools:System</Category>
+  <Name>Parity Check Tuning Plus</Name>
+  <CA>AddOn</CA>
+  <Description>
+Schedule parity checks, rebuilds, and disk clearing in increments. Pause for high disk temperatures, mover, or supported appdata backups. Includes extended parity history and a partial-check assistant. Remove the previous parity tuning plugin before installing.
+  </Description>
+  <Date>2026-11-04</Date>
+  <MinVer>6.9.2</MinVer>
+  <ExtraSearchTerms>parity check tuning schedule increments pause resume mover backup temperature rebuild clear history assistant</ExtraSearchTerms>
+  <Support>https://github.com/alexphillips-dev/Parity-Check-Tuning-Plus/issues</Support>
+  <Icon>https://raw.githubusercontent.com/alexphillips-dev/Parity-Check-Tuning-Plus/main/parity.check.tuning.plus.svg</Icon>
+  <Project>https://github.com/alexphillips-dev/Parity-Check-Tuning-Plus</Project>
+</Containers>
