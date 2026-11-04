@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <Plugin>True</Plugin>
+  <PluginURL>https://raw.githubusercontent.com/alexphillips-dev/Data-Volume-Monitor/main/plugin/dvm.plg</PluginURL>
+  <PluginAuthor>alexphillips-dev</PluginAuthor>
+  <Beta>False</Beta>
+  <Category>Tools:System</Category>
+  <Name>Data Volume Monitor</Name>
+  <CA>AddOn</CA>
+  <Description>
+Monitor network interface data usage with vnStat, view traffic reports and dashboard/footer usage, and configure thresholds, notifications, Docker container actions, and VM network-link actions. Back up settings and traffic history and remove the original Data Volume Monitor plugin before migrating.
+  </Description>
+  <Date>2026-11-04</Date>
+  <MinVer>6.8.3</MinVer>
+  <ExtraSearchTerms>vnstat network traffic bandwidth data usage monitor thresholds notifications docker vm backup</ExtraSearchTerms>
+  <Support>https://github.com/alexphillips-dev/Data-Volume-Monitor/issues</Support>
+  <Icon>https://raw.githubusercontent.com/alexphillips-dev/Data-Volume-Monitor/main/plugin/dvm.png</Icon>
+  <Project>https://github.com/alexphillips-dev/Data-Volume-Monitor</Project>
+</Containers>
